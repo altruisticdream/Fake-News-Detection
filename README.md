@@ -14,6 +14,8 @@ TF (Term Frequency): The number of times a word appears in a document is its Ter
 IDF (Inverse Document Frequency): Words that occur many times a document, but also occur many times in many others, may be irrelevant. IDF is a measure of how significant a term is in the entire corpus.
 
 
+## Passive Aggressive Classifier
+
 ## Project Prerequisites
 
 Run These commands on command prompt
